@@ -1,2 +1,2 @@
 # Handwritten-ocr
-Created a handwritten orc to recognize bloch letters and numbers in keras
+Created a handwritten orc to recognize block letters and numbers in keras
